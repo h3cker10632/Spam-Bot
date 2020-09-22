@@ -8,4 +8,6 @@ its a very simple code and a simple program all you have to do it run it and cli
 ![](images/image.png)
 
 
-# What it should look like
+# What it should look like 
+
+![](images/image2.png)
